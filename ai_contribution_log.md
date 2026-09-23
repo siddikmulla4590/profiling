@@ -16,7 +16,7 @@ This log documents the breakdown of work between the **Student (Human Author)** 
 
 ## 🛠️ Detailed Task Breakdown
 
-| Task / Phase | Student Contribution (Ketan) | AI Contribution (Gemini / ChatGPT) | Ownership & Validation |
+| Task / Phase | Student Contribution (Siddik) | AI Contribution (Gemini / ChatGPT) | Ownership & Validation |
 | :--- | :--- | :--- | :--- |
 | **1. Code Development** | Specified requirements (3,000 array size, 10 benchmark runs, sorting logic). Tested script execution locally. | Wrote initial Python implementation for unoptimized and optimized Bubble Sort algorithms (`sort.py`). | **Student Verified:** Confirmed array logic and dataset generation worked without errors. |
 | **2. Profiling Setup & CLI Commands** | Configured Git Bash on Windows, ran terminal as Administrator, and executed profiling commands. | Provided exact CLI commands (`py-spy record -o profile_flamegraph.svg ...`) and Git Bash execution tips. | **Student Executed:** Manually ran the profiler and generated the SVG flame graph. |
