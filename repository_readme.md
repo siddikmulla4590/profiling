@@ -24,7 +24,7 @@ The objective is to measure real execution performance, capture interactive flam
 .
 ├── sort.py                      # Main Python script containing both algorithm implementations & benchmark runner
 ├── profile_flamegraph.svg       # Generated py-spy flame graph visualization
-├── SLE2_PRN_KetanGajananToraskar.docx # Formatted Word report submitted for SLE-2
+├── SLE2_PRN_Mahamadsiddik-mulla.docx # Formatted Word report submitted for SLE-2
 └── README.md                    # Project documentation
 ```
 
@@ -100,7 +100,7 @@ python sort.py
 | Role | Contributor | Task / Output |
 | :--- | :--- | :--- |
 | **AI Assiastant** | Gemini / ChatGPT | Boilerplate Python benchmarking code, `py-spy` Git Bash command syntax, report structure formatting. |
-| **Human Author** | Ketan G. Toraskar | Environment setup, running administrative terminal commands, data collection, empirical flame graph analysis. |
+| **Human Author** | Mahamadsiddik Mulla | Environment setup, running administrative terminal commands, data collection, empirical flame graph analysis. |
 
 ---
 
