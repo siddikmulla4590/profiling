@@ -2,8 +2,8 @@
 
 > **Course:** 02AML204 – Introduction to Artificial Intelligence  
 > **Assignment:** SLE-2 Profiling Report (Empirical Performance Analysis)  
-> **Student Name:** Ketan Gajanan Toraskar  
-> **PRN:** [Your PRN Here]  
+> **Student Name:** Mahamadsiddik Mahamadsharif Mulla
+> **PRN:** 25UAM054
 > **Date:** September 22, 2026  
 
 ---
@@ -39,5 +39,5 @@ AI Assistance           : [██████████░░░░░░░�
 
 I confirm that all profiling experiments were executed locally on my machine using actual code. The numbers presented in the report reflect genuine execution data gathered via `py-spy`. AI tools were utilized solely as an educational assistant for code generation, syntax guidance, and document formatting.
 
-**Student Signature:** Ketan Gajanan Toraskar  
+**Student Signature:** Mahamadsiddik Mahamadsharif Mulla 
 **Date:** September 22, 2026
