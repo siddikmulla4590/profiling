@@ -2,7 +2,7 @@
 
 > **Course:** 02AML204 – Introduction to Artificial Intelligence  
 > **Assignment:** SLE-2 Profiling Report (Empirical Performance Analysis)  
-> **Author:** Ketan Gajanan Toraskar  
+> **Author:** Mahamadsiddik M.Sharif Mulla 
 > **Tool Used:** `py-spy` (Sampling Profiler for Python)
 
 ---
